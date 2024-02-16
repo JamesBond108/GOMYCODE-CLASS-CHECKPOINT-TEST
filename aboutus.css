@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: beige;
+    margin: auto;
+    width: 100%;
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    margin: 200px;
+    font-size: 25px;
+}
